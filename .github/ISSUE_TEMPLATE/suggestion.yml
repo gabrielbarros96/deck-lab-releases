@@ -1,0 +1,23 @@
+name: Sugestão / Suggestion
+description: Uma melhoria ou algo novo para o Deck Lab. / An improvement or something new for Deck Lab.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Os relatos são públicos: não anexe seu backup nem nada pessoal.
+        Reports are public: do not attach your backup or anything personal.
+  - type: textarea
+    id: idea
+    attributes:
+      label: A sugestão / The suggestion
+      description: O que mudar ou o que acrescentar, e onde no app. / What to change or add, and where in the app.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Para quê / What for
+      description: O que isso deixaria você fazer. / What it would let you do.
+    validations:
+      required: false

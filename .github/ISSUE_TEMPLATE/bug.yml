@@ -1,0 +1,37 @@
+name: Erro / Bug
+description: Algo no Deck Lab não funcionou como devia. / Something in Deck Lab did not work as it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Os relatos são públicos: não anexe seu backup nem nada pessoal.
+        Reports are public: do not attach your backup or anything personal.
+  - type: input
+    id: version
+    attributes:
+      label: Versão / Version
+      description: No pé de Configurações. / At the foot of Settings.
+      placeholder: "7.4.0"
+    validations:
+      required: true
+  - type: textarea
+    id: did
+    attributes:
+      label: O que você fez / What you did
+      description: Os passos, em ordem. / The steps, in order.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: O que esperava / What you expected
+    validations:
+      required: false
+  - type: textarea
+    id: happened
+    attributes:
+      label: O que aconteceu / What happened
+      description: Um print da tela ajuda - arraste a imagem para cá. / A screenshot helps - drag the picture here.
+    validations:
+      required: true

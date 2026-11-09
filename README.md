@@ -10,7 +10,7 @@ instala a própria cópia, e os seus decks e partidas ficam só no seu computado
 **[A versão mais nova](https://github.com/gabrielbarros96/deck-lab-releases/releases/latest)**: o instalador, o que há de novo e
 como instalar.
 
-**[Kit inicial](https://github.com/gabrielbarros96/deck-lab-releases/releases/download/v7.4.0/Deck-Lab_starter-kit.decklab)** (206 MB): alguns decks e cartas personalizadas para começar. Com o
+**[Kit inicial](https://github.com/gabrielbarros96/deck-lab-releases/releases/download/v7.5.0/Deck-Lab_starter-kit.decklab)** (203 MB): alguns decks e cartas personalizadas para começar. Com o
 Deck Lab instalado, abra-o em Recursos > Carregar decks/cartas….
 
 ## Precisa de
@@ -48,7 +48,7 @@ their own copy, and their decks and games stay on their own computer.
 **[The newest version](https://github.com/gabrielbarros96/deck-lab-releases/releases/latest)**: the installer, what is new and how
 to install it.
 
-**[Starter kit](https://github.com/gabrielbarros96/deck-lab-releases/releases/download/v7.4.0/Deck-Lab_starter-kit.decklab)** (206 MB): a few decks and custom cards to start with. With Deck Lab
+**[Starter kit](https://github.com/gabrielbarros96/deck-lab-releases/releases/download/v7.5.0/Deck-Lab_starter-kit.decklab)** (203 MB): a few decks and custom cards to start with. With Deck Lab
 installed, open it with Features > Load decks/cards….
 
 ## Needs

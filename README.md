@@ -18,8 +18,8 @@ Deck Lab instalado, abra-o em Recursos > Carregar decks/cartas….
 - Windows 10 ou 11.
 - Internet, para os dados das cartas (Scryfall).
 - Para importar partidas do MTG Arena: o Arena instalado neste computador, com Options > Account > Detailed Logs (Plugin Support)
-  ligado. O app encontra o Arena da Steam, do instalador próprio e da Epic Games; se não encontrar, Configurações > Pasta do MTG
-  Arena... recebe a pasta.
+  ligado, e o Arena ligado no Deck Lab em Configurações > MTG Arena… (ele vem desligado). O app encontra o Arena da Steam, do
+  instalador próprio e da Epic Games; se não encontrar, o mesmo diálogo recebe a pasta.
 
 ## Seus dados
 
@@ -55,8 +55,9 @@ installed, open it with Features > Load decks/cards….
 
 - Windows 10 or 11.
 - Internet, for card data (Scryfall).
-- To import games from MTG Arena: Arena installed on this computer, with Options > Account > Detailed Logs (Plugin Support) on. The
-  app finds Arena from Steam, its own installer and Epic Games; if it does not, Settings > MTG Arena folder... takes the folder.
+- To import games from MTG Arena: Arena installed on this computer, with Options > Account > Detailed Logs (Plugin Support) on,
+  and Arena turned on in Deck Lab with Settings > MTG Arena… (it starts off). The app finds Arena from Steam, its own installer
+  and Epic Games; if it does not, the same dialog takes the folder.
 
 ## Your data
 

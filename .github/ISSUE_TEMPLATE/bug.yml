@@ -12,7 +12,7 @@ body:
     attributes:
       label: Versão / Version
       description: No pé de Configurações. / At the foot of Settings.
-      placeholder: "7.4.0"
+      placeholder: "7.6.0"
     validations:
       required: true
   - type: textarea
